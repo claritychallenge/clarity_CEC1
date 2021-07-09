@@ -22,7 +22,7 @@ All Clarity code is made available under the terms of the Creative Commons Attri
 If you use this code in publications, please cite it as follows:
 
 ```
-Details to appear. 
+J. Barker, S. Graetzer, and T. Cox, ''Software to support the 1st Clarity Enhancement Challenge [software and data collection],” https://doi.org/10.5281/zenodo.4593856, 2021.
 ```
 
 License terms for the data are included in the separately-downloaded data packages. They are summarised below.
